@@ -8,3 +8,8 @@ ___
 #### Day2 Challenge: Add Two Digits
 
 ##### The reduce() method executes a reducer function (that you provide) on each element of the array, resulting in single output value.
+___
+
+#### Day3 Challenge: First Duplicate
+
+##### The hasOwnProperty() method returns a boolean indicating whether the object has the specified property as its own property (as opposed to inheriting it).
