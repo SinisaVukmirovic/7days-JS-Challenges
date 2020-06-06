@@ -13,3 +13,11 @@ ___
 #### Day3 Challenge: First Duplicate
 
 ##### The hasOwnProperty() method returns a boolean indicating whether the object has the specified property as its own property (as opposed to inheriting it).
+
+___
+
+#### Day4 Challenge: Sum All Primes
+
+##### A for loop repeats until a specified condition evaluates to false. The JavaScript for loop is similar to the Java and C for loop.
+
+##### Use the break statement to terminate a loop, switch, or in conjunction with a labeled statement.
