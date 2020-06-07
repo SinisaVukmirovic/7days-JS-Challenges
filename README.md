@@ -21,3 +21,8 @@ ___
 ##### A for loop repeats until a specified condition evaluates to false. The JavaScript for loop is similar to the Java and C for loop.
 
 ##### Use the break statement to terminate a loop, switch, or in conjunction with a labeled statement.
+___
+
+#### Day5 Challenge: Even Digits Only
+
+##### The every() method tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value.
