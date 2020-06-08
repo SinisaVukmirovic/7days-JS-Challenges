@@ -26,3 +26,10 @@ ___
 #### Day5 Challenge: Even Digits Only
 
 ##### The every() method tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value.
+___
+
+#### Day6 Challenge: Make Array Consecutive
+
+##### The includes() method determines whether an array includes a certain value among its entries, returning true or false as appropriate.
+###### (same can be achieved with indexOf() method instead of ES6 includes()).
+##### The indexOf() method returns the first index at which a given element can be found in the array, or -1 if it is not present.
