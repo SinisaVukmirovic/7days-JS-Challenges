@@ -33,3 +33,8 @@ ___
 ##### The includes() method determines whether an array includes a certain value among its entries, returning true or false as appropriate.
 ###### (same can be achieved with indexOf() method instead of ES6 includes()).
 ##### The indexOf() method returns the first index at which a given element can be found in the array, or -1 if it is not present.
+___
+
+#### Day7 Challenge: Proper Noun Correction
+
+##### The slice() method returns a shallow copy of a portion of an array into a new array object selected from start to end (end not included) where start and end represent the index of items in that array. The original array will not be modified.
